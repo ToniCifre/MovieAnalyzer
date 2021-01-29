@@ -1,4 +1,4 @@
-# MovieCards
+# MovieAnalyzer
 
 ![](demo.gif)
 
